@@ -1,5 +1,5 @@
 # Nota de Falecimento - Modelo Padrão
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
